@@ -2,8 +2,6 @@
 
 **`5-hour-trieu-pm (Deverloper/ChessPlayer/Pianist/Violinist/Blogger)`**
 
-#
-
 <p>I'm just a normal human in the world. I love art and also technology 🎨 <br />
 You can call me an indie full-stack developer ☀️ <br />
 I'll build my "program life" here 🌠</p>
